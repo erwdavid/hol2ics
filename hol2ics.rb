@@ -3,7 +3,7 @@
 
 #
 #
-# Convert a .hol file (outlook holiday file) to a directory with one .ics file per section.
+# Convert a .hol file (outlook holiday file) to a ics file with section name as prefix of event description
 #
 #
 
