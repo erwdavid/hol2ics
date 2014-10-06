@@ -1,0 +1,5 @@
+
+- Principe de base : sélectionner les sections du hol à mettre dans le
+  ics puis générer le ics
+
+- Pb : UI de sélection des listes...
